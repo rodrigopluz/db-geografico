@@ -10,7 +10,7 @@ O objetivo era criar tabelas referentes:
 
 Com isso o Diagrama ER de banco de dados (projeto_final) abaixo.
 
-<img src="/home/dev-rodrigo/Documentos/DB-GEOGRAFICO/projeto-final/diagrama-er.png" width="1024" height="768" />
+<img src="diagrama-er.png" width="1024" height="768" />
 
 E as vistas que foram criadas a partir do resultado das consultas, tanto para as _não-espaciais_ como para as _espaciais_ estão, nomeadas pelas siglas - **NE.Numero** (_NãoEspaciais.Numero_) e **E.Numero** (_Espaciais.Numero_).
 
